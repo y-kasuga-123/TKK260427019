@@ -2,6 +2,44 @@
 <DocumentWindowInfoForMDI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <All>
     <DocumentWindowInfoForMDIElement>
+      <Name>RCON5</Name>
+      <SaveKey>[Ladder]RCON5</SaveKey>
+      <Bounds>
+        <Location>
+          <X>78</X>
+          <Y>78</Y>
+        </Location>
+        <Size>
+          <Width>300</Width>
+          <Height>300</Height>
+        </Size>
+        <X>78</X>
+        <Y>78</Y>
+        <Width>300</Width>
+        <Height>300</Height>
+      </Bounds>
+      <WindowState>Normal</WindowState>
+    </DocumentWindowInfoForMDIElement>
+    <DocumentWindowInfoForMDIElement>
+      <Name>Main</Name>
+      <SaveKey>[Ladder]Main</SaveKey>
+      <Bounds>
+        <Location>
+          <X>104</X>
+          <Y>104</Y>
+        </Location>
+        <Size>
+          <Width>300</Width>
+          <Height>300</Height>
+        </Size>
+        <X>104</X>
+        <Y>104</Y>
+        <Width>300</Width>
+        <Height>300</Height>
+      </Bounds>
+      <WindowState>Normal</WindowState>
+    </DocumentWindowInfoForMDIElement>
+    <DocumentWindowInfoForMDIElement>
       <Name>A6_減速ギア1取付</Name>
       <SaveKey>[Ladder]A6_減速ギア1取付</SaveKey>
       <Bounds>
@@ -49,12 +87,12 @@
         </Location>
         <Size>
           <Width>995</Width>
-          <Height>762</Height>
+          <Height>784</Height>
         </Size>
         <X>-8</X>
         <Y>-31</Y>
         <Width>995</Width>
-        <Height>762</Height>
+        <Height>784</Height>
       </Bounds>
       <WindowState>Maximized</WindowState>
     </DocumentWindowInfoForMDIElement>
