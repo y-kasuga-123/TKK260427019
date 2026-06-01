@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocumentWindowInfoForMDI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <All>
+    <DocumentWindowInfoForMDIElement>
+      <Name>Main</Name>
+      <SaveKey>[Ladder]Main</SaveKey>
+      <Bounds>
+        <Location>
+          <X>0</X>
+          <Y>0</Y>
+        </Location>
+        <Size>
+          <Width>300</Width>
+          <Height>300</Height>
+        </Size>
+        <X>0</X>
+        <Y>0</Y>
+        <Width>300</Width>
+        <Height>300</Height>
+      </Bounds>
+      <WindowState>Normal</WindowState>
+    </DocumentWindowInfoForMDIElement>
+    <DocumentWindowInfoForMDIElement>
+      <Name>A15_磁石取付</Name>
+      <SaveKey>[Ladder]A15_磁石取付</SaveKey>
+      <Bounds>
+        <Location>
+          <X>-8</X>
+          <Y>-31</Y>
+        </Location>
+        <Size>
+          <Width>1279</Width>
+          <Height>1065</Height>
+        </Size>
+        <X>-8</X>
+        <Y>-31</Y>
+        <Width>1279</Width>
+        <Height>1065</Height>
+      </Bounds>
+      <WindowState>Maximized</WindowState>
+    </DocumentWindowInfoForMDIElement>
+  </All>
+</DocumentWindowInfoForMDI>

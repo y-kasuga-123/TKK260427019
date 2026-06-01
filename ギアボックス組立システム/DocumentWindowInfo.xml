@@ -2,76 +2,19 @@
 <DocumentWindowInfoForMDI xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <All>
     <DocumentWindowInfoForMDIElement>
-      <Name>RCON5</Name>
-      <SaveKey>[Ladder]RCON5</SaveKey>
-      <Bounds>
-        <Location>
-          <X>78</X>
-          <Y>78</Y>
-        </Location>
-        <Size>
-          <Width>300</Width>
-          <Height>300</Height>
-        </Size>
-        <X>78</X>
-        <Y>78</Y>
-        <Width>300</Width>
-        <Height>300</Height>
-      </Bounds>
-      <WindowState>Normal</WindowState>
-    </DocumentWindowInfoForMDIElement>
-    <DocumentWindowInfoForMDIElement>
       <Name>Main</Name>
       <SaveKey>[Ladder]Main</SaveKey>
       <Bounds>
         <Location>
-          <X>104</X>
-          <Y>104</Y>
+          <X>0</X>
+          <Y>0</Y>
         </Location>
         <Size>
           <Width>300</Width>
           <Height>300</Height>
         </Size>
-        <X>104</X>
-        <Y>104</Y>
-        <Width>300</Width>
-        <Height>300</Height>
-      </Bounds>
-      <WindowState>Normal</WindowState>
-    </DocumentWindowInfoForMDIElement>
-    <DocumentWindowInfoForMDIElement>
-      <Name>A6_減速ギア1取付</Name>
-      <SaveKey>[Ladder]A6_減速ギア1取付</SaveKey>
-      <Bounds>
-        <Location>
-          <X>52</X>
-          <Y>52</Y>
-        </Location>
-        <Size>
-          <Width>300</Width>
-          <Height>300</Height>
-        </Size>
-        <X>52</X>
-        <Y>52</Y>
-        <Width>300</Width>
-        <Height>300</Height>
-      </Bounds>
-      <WindowState>Normal</WindowState>
-    </DocumentWindowInfoForMDIElement>
-    <DocumentWindowInfoForMDIElement>
-      <Name>A11_磁石用ギア取付</Name>
-      <SaveKey>[Ladder]A11_磁石用ギア取付</SaveKey>
-      <Bounds>
-        <Location>
-          <X>26</X>
-          <Y>26</Y>
-        </Location>
-        <Size>
-          <Width>300</Width>
-          <Height>300</Height>
-        </Size>
-        <X>26</X>
-        <Y>26</Y>
+        <X>0</X>
+        <Y>0</Y>
         <Width>300</Width>
         <Height>300</Height>
       </Bounds>
@@ -87,12 +30,12 @@
         </Location>
         <Size>
           <Width>995</Width>
-          <Height>699</Height>
+          <Height>1065</Height>
         </Size>
         <X>-8</X>
         <Y>-31</Y>
         <Width>995</Width>
-        <Height>699</Height>
+        <Height>1065</Height>
       </Bounds>
       <WindowState>Maximized</WindowState>
     </DocumentWindowInfoForMDIElement>
